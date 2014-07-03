@@ -29,7 +29,7 @@ Extends UIColor with isEqualToColor method.
 ####UIColor+Hex####
 Addition to UIColor that allow to create a color object from a hexidecimal string. Supported variants are: RGB, RGBA, ARGB, #RGB, #RGBA, #ARGB.
 
-####UIDevice+Extended####
+####UIDevice+STX_Extensions####
 Extends UIDevice with additional methods to check device's features & status such as: Retina display, screen size(3,5" or 4"), if the debugger is connected, if the device is running iOS7.
 
 ####UIImage+AppIcon####
