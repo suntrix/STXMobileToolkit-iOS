@@ -12,7 +12,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UIDevice (STX_Extensions)
+@interface UIDevice (ExtendedInfo)
 
 - (NSString *)modelName;
 

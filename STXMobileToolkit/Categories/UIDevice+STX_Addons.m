@@ -19,7 +19,7 @@
 #import <sys/types.h>
 #import <sys/utsname.h>
 
-@implementation UIDevice (STX_Extensions)
+@implementation UIDevice (ExtendedInfo)
 
 - (NSString *)modelName {
     struct utsname systemInfo;
