@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F6E11647-7A33-415C-8C5B-30B21A6662F5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>STXMobileToolkit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AEE0FBF2-E9C6-44FB-B038-A66B1146F70A</key>
+		<string>https://github.com/suntrix/MobileToolkit-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>STXMobileToolkit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AEE0FBF2-E9C6-44FB-B038-A66B1146F70A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/suntrix/MobileToolkit-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AEE0FBF2-E9C6-44FB-B038-A66B1146F70A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AEE0FBF2-E9C6-44FB-B038-A66B1146F70A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MobileToolkit-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
